@@ -4,7 +4,6 @@ __pycache__/
 dist/
 build/
 .venv/
-.env
 *.log
 .pytest_cache/
 .pytest-tmp/
@@ -67,3 +66,4 @@ docs/assets/*.mp4
 docs/assets/*.gif
 tools/
 test*.png
+config.bat
